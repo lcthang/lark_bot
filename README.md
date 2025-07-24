@@ -4,10 +4,6 @@ Lark Bot is an intelligent assistant designed for HR teams and employees, seamle
 
 ## Features
 
-- **Employee Self-Service**: Answer common HR questions instantly.
-- **Leave & Attendance Management**: Submit leave requests and check balances.
-- **Policy Lookup**: Instantly retrieve HR policies and documents.
-- **Automated Reminders**: Get notified about important HR deadlines.
 - **Custom Workflows**: Automate repetitive HR tasks.
 
 ## Getting Started
